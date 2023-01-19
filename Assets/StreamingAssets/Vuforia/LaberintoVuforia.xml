@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="Laberinto3" size="0.260000 0.462222" />
-    <ImageTarget name="Labrinto_2" size="0.260000 0.462222" />
-    <ImageTarget name="Laberinto_1" size="0.260000 0.462222" />
+    <ImageTarget name="Laberinto3" size="0.260000 0.228163" />
+    <ImageTarget name="Labrinto_2" size="0.260000 0.251387" />
+    <ImageTarget name="Laberinto_1" size="0.260000 0.247812" />
     <ImageTarget name="imagen" size="0.260000 0.195325" />
     <ImageTarget name="Laberinto" size="0.260000 0.260000" />
   </Tracking>
